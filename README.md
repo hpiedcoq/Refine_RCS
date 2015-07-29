@@ -21,6 +21,7 @@ OUTPUT :
 VERSIONS :
 
 1.0 : INITIAL REALEASE
+
 1.9 : 29/07/2015. Minor bugs fixed. added year of birth of owner, status of the company (active, ceased), Type of company
 
 
