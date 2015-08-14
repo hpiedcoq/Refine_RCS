@@ -1,5 +1,5 @@
 ﻿# Refine_RCS
-A recipe for OpenRefine, that allows you to collect opensource informations from french companies based on their RCS (National Registry) number (9 digits), their SIRET (14 digits) or their VAT number.
+A recipe for OpenRefine, that allows you to collect opensource informations on french companies based on their RCS (National Registry) number (9 digits), their SIRET (14 digits) or their VAT number.
 
 Simply create a new project in Openrefine, copy/paste a list of company numbers in Openrefine in the clipboard zone.
 
@@ -14,8 +14,8 @@ Threshold timer is set to 10000ms by default on googlemaps servers, to work with
 
 OUTPUT : 
 
-- Retrieve the name of the company, its adress, SIRET, APE code, Categoty, Capital stock, date of creation, owner, turnover (if available), year of birth of owner, status of the company (active, ceased), Type of company.
-- geocode the adress
+- Retrieve the name of the company, its adress, SIRET, APE code, Category, Capital stock, date of creation, owner, turnover (if available), year of birth of owner, status of the company (active, ceased), Type of company.
+- geocode the adresses
 - Check the validity of the VAT number on the VIES platform (E.U. public informations)
 - Datestamp the search
 - Retrieves avalable infos ont the company on VIES
