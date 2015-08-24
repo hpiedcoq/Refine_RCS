@@ -23,6 +23,8 @@ OUTPUT :
 
 VERSIONS :
 
+2.1 : 24/08/2015. VAT identifier computation optimized to a bug if final modulo < 10. 
+
 2.0 : 14/08/2015. VAT identifier based on the Luhn Algorithm. Check and compare on the VIES platform
 
 1.9 : 29/07/2015. Minor bugs fixed. added year of birth of owner, status of the company (active, ceased), Type of company
