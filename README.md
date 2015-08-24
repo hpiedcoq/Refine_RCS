@@ -23,6 +23,8 @@ OUTPUT :
 
 VERSIONS :
 
+3.0 : 24/08/2015. Correction of bugs (Birthdates, columns, etc...)
+
 2.1 : 24/08/2015. VAT identifier computation optimized to a bug if final modulo < 10. 
 
 2.0 : 14/08/2015. VAT identifier based on the Luhn Algorithm. Check and compare on the VIES platform
